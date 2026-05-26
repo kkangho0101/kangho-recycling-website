@@ -4,10 +4,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
     "vite": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "@vitejs/plugin-react": "latest"
   },
   "devDependencies": {}
 }
